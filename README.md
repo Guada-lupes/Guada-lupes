@@ -68,9 +68,7 @@
 
 <p align="left">Plataforma de gestión de libros y usuarios desarrollada con Vite y React. Permite a los usuarios explorar libros, gestionar favoritos, gestionar tareas administrativas (para administradores) y realizar operaciones CRUD tanto para libros como para perfiles de usuario. La aplicación utiliza React Context para la gestión global del estado y los servicios, gracias a la interacción con una serie de objetos de datos simulados.<br><br>Javascript | HTML | CSS | React | Vite | React_Router_Dom <br><br>https://github.com/Guada-lupes/BookSpace</p>
 
-###
 
-<img src="https://raw.githubusercontent.com/Guada-lupes/Guada-lupes/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -88,10 +86,4 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guada-lupes/Guada-lupes/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guada-lupes/Guada-lupes/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Guada-lupes/Guada-lupes/output/pacman-contribution-graph.svg">
-</picture>
 
-###
