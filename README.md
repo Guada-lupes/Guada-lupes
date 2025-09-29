@@ -2,9 +2,11 @@
 
 ###
 
+
 <br clear="both">
 
 <p align="left">En abril de 2025 finalicé una formación intensiva en Front-End. Actualmente me dedico a mejorar y ampliar mis conocimientos a través del desarrollo de proyectos personales y profesionales.</p>
+
 
 ###
 
@@ -44,6 +46,7 @@
 
 <h2 align="center">Proyectos destacados</h2>
 
+
 ###
 
 <h3 align="left">🌏Planeta de las Profesiones</h3>
@@ -52,6 +55,7 @@
 
 <p align="left">Single Page Application (SPA) educativa que ofrece una experiencia gamificada para explorar el mercado laboral. Funcionalidades principales:<br><br>⚙️Gestión de usuario: login/logout, progreso en el juego, desbloqueo de tribus y ocupaciones favoritas, implementado con useContext y useReducer.<br>⚙️Persistencia de datos: almacenamiento en localStorage para mantener la sesión y el avance del jugador.<br>⚙️Estructura de contenidos dinámica: un objeto-árbol con fases, retos y descripciones que se renderiza automáticamente según el progreso.<br>⚙️Interacciones enriquecidas: integración de la librería hello pangea/dnd para el drag and drop en retos de clasificación y ordenamiento.<br>⚙️Datos reales: contenidos extraídos de informes del SEPE, con enlaces a fichas profesionales descargables.<br><br>Javascript | HTML | CSS | React | Vite | React_Router_Dom | hello pangea/dnd |  CSS Modules | React lazy<br><br>https://github.com/Guada-lupes/OccupationsGame</p>
 
+
 ###
 
 <h3 align="center">⚡Catálogo Digital Personalizable</h3>
@@ -59,6 +63,7 @@
 ###
 
 <p align="left">Aplicación para generar un catalogo inmobiliario. A través de un formulario inicial podemos configurar su aspecto y contenido. Funcionalidades:<br><br>⚙️ Selección de agencia (logo y color corporativo), idioma (ES/EN), publicidad opcional y zonas.<br>⚙️ Modo FlippedBook online: virtualización dinámica que carga 5 páginas a la vez según la posición, para catálogos de hasta 450 viviendas sin reducir rendimiento.<br>⚙️ Versión PDF imprimible: generación automática de revista digital usando React-PDF.<br>Integración con la API de ZODDAK mediante peticiones asíncronas y token.<br><br>Javascript | HTML | CSS | React | Vite | React_Router_Dom | React-PDF |  React.memo | Bootstrap<br><br>https://github.com/Guada-lupes/Catalogo_personalizado</p>
+
 
 ###
 
