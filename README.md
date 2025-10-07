@@ -6,7 +6,7 @@
 <br clear="both">
 
 <p align="left">En abril de 2025 finalicé una formación intensiva en Front-End. Actualmente me dedico a mejorar y ampliar mis conocimientos a través del desarrollo de proyectos personales y profesionales.</p>
-
+<p>Visita mi portfolio: https://maravila-portfolio.vercel.app/</p>
 
 ###
 
