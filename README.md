@@ -1,4 +1,4 @@
-<h1 align="center">Hola! soy Guadalupe, desarrolladora Front-End</h1>
+<h1 align="center">Hola! soy Guadalupe, Desarrolladora Front-End</h1>
 
 ###
 
