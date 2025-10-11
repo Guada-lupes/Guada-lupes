@@ -144,6 +144,36 @@
 
 ###
 
-<p align="left">An educational Single Page Application (SPA) that offers a gamified experience to explore the job market.<br><br>Main features:<br><br>⚙️User management: login/logout, game progress tracking, tribe unlocking, and favorite occupations — implemented with useContext and useReducer.<br>⚙️Data persistence: localStorage used to keep session and player progress.<br>⚙️Dynamic content structure: a tree-like object containing phases, challenges, and descriptions that renders automatically based on progress.<br>⚙️Rich interactions: integration of the hello pangea/dnd library for dra
+<p align="left">An educational Single Page Application (SPA) that offers a gamified experience to explore the job market.<br><br>Main features:<br><br>⚙️User management: login/logout, game progress tracking, tribe unlocking, and favorite occupations — implemented with useContext and useReducer.<br>⚙️Data persistence: localStorage used to keep session and player progress.<br>⚙️Dynamic content structure: a tree-like object containing phases, challenges, and descriptions that renders automatically based on progress.<br>⚙️Rich interactions: integration of the hello pangea/dnd library for drag-and-drop in sorting and classification challenges.<br>⚙️Real data: content extracted from SEPE reports, including downloadable professional fact sheets.<br><br>Javascript | HTML | CSS Modules | React | Vite | React_Router_Dom | hello pangea/dnd | React.lazy | react-helmet<br><br>https://github.com/Guada-lupes/OccupationsGame</p>
 
+###
 
+<h3 align="center">⚡Customizable Digital Catalog</h3>
+
+###
+
+<p align="left">An application for generating a real estate catalog. Through an initial setup form, users can configure its appearance and content.<br><br>Main features:<br><br>⚙️Agency selection (logo and brand color), language (ES/EN), optional ads, and zones.<br>⚙️Online FlippedBook mode: dynamic virtualization that loads 5 pages at a time based on scroll position, allowing catalogs of up to 450 properties without performance loss.<br>⚙️Printable PDF version: automatic generation of a digital magazine using React-PDF.<br>Integration with the ZODDAK API through asynchronous requests and token authentication.<br><br>Javascript | HTML | CSS | React | Vite | React_Router_Dom | React-PDF | React.memo | Bootstrap<br><br>https://github.com/Guada-lupes/Catalogo_personalizado</p>
+
+###
+
+<h3 align="center">📙Book Space</h3>
+
+###
+
+<p align="left">A book and user management platform built with Vite and React. It allows users to explore books, manage favorites, handle admin tasks (for admin users), and perform CRUD operations for both books and user profiles. The app uses React Context for global state and service management, interacting with a series of simulated data objects.<br><br>Javascript | HTML | CSS | React | Vite | React_Router_Dom<br><br>https://github.com/Guada-lupes/BookSpace</p>
+
+###
+
+<h2 align="left">Previous Experience</h2>
+
+###
+
+<h4 align="left">Educator</h4>
+
+###
+
+<p align="left">My background as a pedagogue has helped me develop key competencies that I now bring to my role as a web developer:<br><br>✅Communication and clarity: experience teaching adults, able to explain complex concepts in an accessible and adaptive way.<br>✅Design and planning: creation of educational materials and lesson plans, transferable to project organization and technical documentation.<br>✅Adaptability and empathy: work as a therapeutic pedagogue with students of different abilities strengthened my listening, flexibility, and problem-solving skills.<br>✅Guidance and support: as a career counselor, I advised individuals through transitions, developing analytical thinking, active listening, and collaboration skills.</p>
+
+###
+
+<br clear="both">
