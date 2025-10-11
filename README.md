@@ -91,4 +91,59 @@
 
 <br clear="both">
 
+<h1 align="center">Hi! I'm Guadalupe, Front-End Developer</h1>
+
+###
+
+<br clear="both">
+
+<p align="left">In April 2025, I completed an intensive Front-End training program. I am currently focused on improving and expanding my skills through the development of personal and professional projects.</p>
+<p>Visit my portfolio: https://maravila-portfolio.vercel.app/</p>
+
+###
+
+<h2 align="center">Tech Stack</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
+
+###
+
+<h2 align="center">Featured Projects</h2>
+
+###
+
+<h3 align="left">🌏Planet of Professions</h3>
+
+###
+
+<p align="left">An educational Single Page Application (SPA) that offers a gamified experience to explore the job market.<br><br>Main features:<br><br>⚙️User management: login/logout, game progress tracking, tribe unlocking, and favorite occupations — implemented with useContext and useReducer.<br>⚙️Data persistence: localStorage used to keep session and player progress.<br>⚙️Dynamic content structure: a tree-like object containing phases, challenges, and descriptions that renders automatically based on progress.<br>⚙️Rich interactions: integration of the hello pangea/dnd library for dra
+
 
