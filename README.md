@@ -49,12 +49,11 @@
 
 ###
 
-<h3 align="left">🌏Planeta de las Profesiones</h3>
+<h3 align="left">🤖 Asistente Virtual CloudNote Pro</h3>
 
 ###
 
-<p align="left">Single Page Application (SPA) educativa que ofrece una experiencia gamificada para explorar el mercado laboral. Funcionalidades principales:<br><br>⚙️Gestión de usuario: login/logout, progreso en el juego, desbloqueo de tribus y ocupaciones favoritas, implementado con useContext y useReducer.<br>⚙️Persistencia de datos: almacenamiento en localStorage para mantener la sesión y el avance del jugador.<br>⚙️Estructura de contenidos dinámica: un objeto-árbol con fases, retos y descripciones que se renderiza automáticamente según el progreso.<br>⚙️Interacciones enriquecidas: integración de la librería hello pangea/dnd para el drag and drop en retos de clasificación y ordenamiento.<br>⚙️Datos reales: contenidos extraídos de informes del SEPE, con enlaces a fichas profesionales descargables.<br><br>Javascript | HTML | CSS Modules | React | Vite | React_Router_Dom | hello pangea/dnd | React.lazy | react-helmet<br><br>https://github.com/Guada-lupes/OccupationsGame</p>
-
+<p align="left">Asistente virtual inteligente de soporte técnico construido con React, TypeScript y LangChain. Este proyecto simula un sistema de soporte automatizado para CloudNote Pro, una aplicación ficticia de toma de notas. Funcionalidades principales:<br><br>⚙️Clasificación híbrida (reglas + LLM) para filtrar consultas fuera de dominio y redirigir a recursos adecuados.<br>⚙️Memoria conversacional que mantiene el contexto de la interacción del usuario para respuestas coherentes.<br>⚙️Integración con Groq (modelo llama-3.1-8b-instant) para generación de respuestas naturales y precisas.<br>⚙️Mensajes formateados con soporte para listas y negritas.<br>⚙️Auto-scroll inteligente, diseño responsive e indicador de "escribiendo..." en tiempo real.<br><br>Typescript | HTML | Tailwind | React | Vite | Langchain | Groq Cloud - Inferencia LLM (llama-3.1-8b-instant) | Lucide React | Vite<br><br>https://github.com/Guada-lupes/Asistente-virtual https://asistentevirtual-eosin-seven.vercel.app/</p>
 
 ###
 
@@ -66,6 +65,16 @@
 
 
 ###
+
+<h3 align="left">🌏Planeta de las Profesiones</h3>
+
+###
+
+<p align="left">Single Page Application (SPA) educativa que ofrece una experiencia gamificada para explorar el mercado laboral. Funcionalidades principales:<br><br>⚙️Gestión de usuario: login/logout, progreso en el juego, desbloqueo de tribus y ocupaciones favoritas, implementado con useContext y useReducer.<br>⚙️Persistencia de datos: almacenamiento en localStorage para mantener la sesión y el avance del jugador.<br>⚙️Estructura de contenidos dinámica: un objeto-árbol con fases, retos y descripciones que se renderiza automáticamente según el progreso.<br>⚙️Interacciones enriquecidas: integración de la librería hello pangea/dnd para el drag and drop en retos de clasificación y ordenamiento.<br>⚙️Datos reales: contenidos extraídos de informes del SEPE, con enlaces a fichas profesionales descargables.<br><br>Javascript | HTML | CSS Modules | React | Vite | React_Router_Dom | hello pangea/dnd | React.lazy | react-helmet<br><br>https://github.com/Guada-lupes/OccupationsGame</p>
+
+
+###
+
 
 <h3 align="center">📙Book Space</h3>
 
