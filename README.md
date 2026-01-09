@@ -49,11 +49,12 @@
 
 ###
 
-<h3 align="left">🤖 Asistente Virtual CloudNote Pro</h3>
+<h3 align="center">🤖 Asistente Virtual CloudNote Pro</h3>
 
 ###
 
-<p align="left">Asistente virtual inteligente de soporte técnico construido con React, TypeScript y LangChain. Este proyecto simula un sistema de soporte automatizado para CloudNote Pro, una aplicación ficticia de toma de notas. Funcionalidades principales:<br><br>⚙️Clasificación híbrida (reglas + LLM) para filtrar consultas fuera de dominio y redirigir a recursos adecuados.<br>⚙️Memoria conversacional que mantiene el contexto de la interacción del usuario para respuestas coherentes.<br>⚙️Integración con Groq (modelo llama-3.1-8b-instant) para generación de respuestas naturales y precisas.<br>⚙️Mensajes formateados con soporte para listas y negritas.<br>⚙️Auto-scroll inteligente, diseño responsive e indicador de "escribiendo..." en tiempo real.<br><br>Typescript | HTML | Tailwind | React | Vite | Langchain | Groq Cloud - Inferencia LLM (llama-3.1-8b-instant) | Lucide React | Vite<br><br>https://github.com/Guada-lupes/Asistente-virtual https://asistentevirtual-eosin-seven.vercel.app/</p>
+<p align="left">Asistente virtual inteligente de soporte técnico construido con React, TypeScript y LangChain. Este proyecto simula un sistema de soporte automatizado para CloudNote Pro, una aplicación ficticia de toma de notas. Funcionalidades principales:<br><br>⚙️Clasificación híbrida (reglas + LLM) para filtrar consultas fuera de dominio y redirigir a recursos adecuados.<br>⚙️Memoria conversacional que mantiene el contexto de la interacción del usuario para respuestas coherentes.<br>⚙️Integración con Groq (modelo llama-3.1-8b-instant) para generación de respuestas naturales y precisas.<br>⚙️Mensajes formateados con soporte para listas y negritas.<br>⚙️Auto-scroll inteligente, diseño responsive e indicador de "escribiendo..." en tiempo real.<br><br>Typescript | HTML | Tailwind | React | Vite | Langchain | Groq Cloud - Inferencia LLM (llama-3.1-8b-instant) | Lucide React | Vite<br><br>https://github.com/Guada-lupes/Asistente-virtual/</p>
+https://asistentevirtual-eosin-seven.vercel.app
 
 ###
 
@@ -66,7 +67,7 @@
 
 ###
 
-<h3 align="left">🌏Planeta de las Profesiones</h3>
+<h3 align="center">🌏Planeta de las Profesiones</h3>
 
 ###
 
